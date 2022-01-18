@@ -1,0 +1,16 @@
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\obj\Debug\net5.0\kitabxana.csproj.AssemblyReference.cache
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\obj\Debug\net5.0\kitabxana.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\obj\Debug\net5.0\kitabxana.AssemblyInfoInputs.cache
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\obj\Debug\net5.0\kitabxana.AssemblyInfo.cs
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\obj\Debug\net5.0\kitabxana.csproj.CoreCompileInputs.cache
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\bin\Debug\net5.0\kitabxana.exe
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\bin\Debug\net5.0\kitabxana.deps.json
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\bin\Debug\net5.0\kitabxana.runtimeconfig.json
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\bin\Debug\net5.0\kitabxana.runtimeconfig.dev.json
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\bin\Debug\net5.0\kitabxana.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\bin\Debug\net5.0\ref\kitabxana.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\bin\Debug\net5.0\kitabxana.pdb
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\obj\Debug\net5.0\kitabxana.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\obj\Debug\net5.0\ref\kitabxana.dll
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\obj\Debug\net5.0\kitabxana.pdb
+C:\Users\Agamuradov\OneDrive\Masaüstü\HRA-Geneva\Kursdaki dersler\backend\C#\kitabxana\obj\Debug\net5.0\kitabxana.genruntimeconfig.cache
