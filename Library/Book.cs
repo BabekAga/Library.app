@@ -11,6 +11,6 @@ namespace ConsoleApp3
         public string Name { get; set; }
         public string Author { get; set; }
         public int PageCount { get; set; }
-        public int Shelf { get; set; }
+        public int shelf { get; set; }
     }
 }
